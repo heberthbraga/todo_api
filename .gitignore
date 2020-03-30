@@ -29,4 +29,6 @@
 .env.*
 
 /pgdata/*
-/pgdata/pg_stat_tmp/db_0.stat
+pgdata/pg_stat_tmp/db_0.stat
+pgdata/pg_stat_tmp/db_16384.stat
+pgdata/pg_stat_tmp/global.stat
