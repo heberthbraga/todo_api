@@ -27,3 +27,6 @@
 
 .env
 .env.*
+
+/pgdata/*
+/pgdata/pg_stat_tmp/db_0.stat
